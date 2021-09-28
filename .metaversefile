@@ -1,10 +1,10 @@
 {
-  "start_url": "https://webaverse.github.io/loot-assets/chest/Plate_Mail/plate_mail.glb",
+  "start_url": "https://webaverse.github.io/loot-assets/hand/Gauntlets/gauntlets.glb",
   "components": [
     {
       "key": "wear",
       "value": {
-        "skinnedMesh": "plate_mail"
+        "skinnedMesh": "gauntlets"
       }
     }
   ]
