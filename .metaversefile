@@ -1,0 +1,11 @@
+{
+  "start_url": "https://webaverse.github.io/loot-assets/chest/Plate_Mail/plate_mail.glb",
+  "components": [
+    {
+      "key": "wear",
+      "value": {
+        "skinnedMesh": "plate_mail"
+      }
+    }
+  ]
+}
